@@ -1,0 +1,30 @@
+{
+  "name": "Tiny Potato · A little place to keep your days",
+  "short_name": "Tiny Potato",
+  "description": "A tiny potato who lives in your calendar — keep your days, plan a little, and feel how you feel.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF3E4",
+  "theme_color": "#FAF3E4",
+  "lang": "en-GB",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
